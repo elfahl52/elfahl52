@@ -30,7 +30,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge&logo=codeforces&logoColor=white)
-![C++ OOP](https://img.shields.io/badge/C++-OOP-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-teal?style=for-the-badge&logo=codewars&logoColor=white)
+![Algorithms](https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge&logo=codeforces&logoColor=white)
+ 
 
 
 
