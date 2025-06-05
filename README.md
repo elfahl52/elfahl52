@@ -9,7 +9,7 @@
 
 ### 🔥 About Me
 
-- 💻 Full Stack Developer in progress  
+- 💻 Full Stack Developer soon  
 - 🔐 Learning **Cybersecurity** alongside web development  
 - 🧠 Mastering **OOP**, **Algorithms**, and **Data Structures** in **C++** and **Python**  
 - 🤖 Solving problems on platforms like LeetCode & Codeforces  
