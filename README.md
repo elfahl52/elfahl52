@@ -31,7 +31,9 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-teal?style=for-the-badge&logo=codewars&logoColor=white)
-![Algorithms](https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge&logo=codeforces&logoColor=white)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-orange?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Database](https://img.shields.io/badge/-Database-4DB33D?style=for-the-badge&logo=mysql&logoColor=white)
+
  
 
 
