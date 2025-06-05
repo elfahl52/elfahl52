@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Khaled</h1>
-<h3 align="center">A passionate Full Stack Developer, Problem Solver & Cybersecurity Learner from Egypt 🇪🇬</h3>
+<h3 align="center">A passionate Full Stack Developer, Problem Solver from Egypt 🇪🇬</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=I+build+cool+websites+%F0%9F%8C%90;I+solve+problems+with+code+%F0%9F%92%BB;Learning+Cybersecurity+%F0%9F%94%91+and+Python+%F0%9F%90%8D;Mastering+OOP+and+Algorithms+%F0%9F%A7%90" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 - 🧠 Mastering **OOP**, **Algorithms**, and **Data Structures** in **C++** and **Python**  
 - 🤖 Solving problems on platforms like LeetCode & Codeforces  
 - 🎨 Passionate about UI/UX & building responsive, interactive websites  
-- 💍 Dreaming of a future with **Iman ❤️**
+ 
 
 ---
 
@@ -29,6 +29,10 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/-Algorithms-purple?style=for-the-badge&logo=codeforces&logoColor=white)
+![C++ OOP](https://img.shields.io/badge/C++-OOP-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 ---
 
@@ -60,7 +64,7 @@
 - 🧠 Deep dive into OOP and Design Patterns  
 - 🔒 Start ethical hacking and CTFs  
 - 💼 Land freelance gigs  
-- 💍 Get officially engaged to **Iman ❤️**
+ 
 
 ---
 
@@ -73,6 +77,6 @@
 
 ---
 
-> 💬 *"Every line of code brings me closer to my dreams — for myself, for Iman, and for the impact I want to leave."*
+> 💬 *"Every line of code brings me closer to my dreams — for myself, and for the impact I want to leave."*
 
 ---
