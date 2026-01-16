@@ -1,56 +1,99 @@
-<h1 align="center">Hey 👋, I'm Khaled Elfahl</h1>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#F34B7D">Khaled Elfahl</span>
+</h1>
+
+<h3 align="center">
+  🚀 Computer Science Student | Frontend Developer | Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F34B7D&center=true&vCenter=true&width=435&lines=CS+Student+%40+Zagazig+University;Frontend+Developer+(React);Learning+Backend+(Laravel);Problem+Solver+in+the+making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=CS+Student+@+Zagazig+University;React+Frontend+Developer;Learning+Laravel+Backend;Competitive+Programming+Enthusiast;Cybersecurity+Explorer" />
 </p>
 
----
-
-### 🔥 About Me
-- 🎓 2nd Year Computer Science Student at **Zagazig University**.
-- 💻 Currently diving deep into **React.js** for building interactive UIs.
-- 🚀 **Learning Backend:** Exploring the world of **Laravel** and PHP.
-- 🧠 Mastering **OOP**, **Algorithms**, and **Data Structures** in **C++** and **Python**.
-- 🤖 Solving problems on platforms like **LeetCode** & **Codeforces**.
-- 🛡️ Interested in **Cybersecurity Fundamentals**.
-
-### 🛠 My Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Structures-00FF7F?style=flat&logo=datastax&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <br/>
-  <img src="https://img.shields.io/badge/Learning_Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
-
----
-
-### 💡 Skills & Focus Areas
-- ✅ **Object-Oriented Programming (OOP)**
-- ✅ **Algorithms & Data Structures**
-- ✅ **Problem Solving** (C++ & Python)
-- ✅ **Frontend Development** (HTML, CSS, JS, Bootstrap, React)
-- ✅ **Responsive Web Design**
-- ✅ **Cybersecurity Fundamentals**
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elfahl52&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfahl52&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=elfahl52&label=Profile%20Views&color=F34B7D&style=flat" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-<p align="left">
-<a href="mailto:khaledelfahl888@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/201021487051"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+## 🔥 About Me
+- 🎓 **2nd Year CS Student** at **Zagazig University**
+- 💻 **Frontend Developer** specialized in **React.js**
+- 🚀 **Backend Learner:** Laravel & PHP
+- 🧠 Strong in **OOP, Algorithms & Data Structures**
+- 🤖 Active on **LeetCode & Codeforces**
+- 🛡️ Interested in **Cybersecurity Fundamentals**
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,php" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+### 🗄 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,mysql" />
+</p>
+
+---
+
+## 💡 Skills & Focus Areas
+✅ Object-Oriented Programming (OOP)  
+✅ Algorithms & Data Structures  
+✅ Problem Solving (C++ & Python)  
+✅ Responsive Web Design  
+✅ Frontend Development (React)  
+✅ Cybersecurity Basics  
+
+---
+
+## 🧠 Competitive Programming
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/elfahl52?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=elfahl52&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfahl52&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elfahl52&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elfahl52&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p>
+  <a href="mailto:khaledelfahl888@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://wa.me/201021487051">
+    <img src="https://skillicons.dev/icons?i=whatsapp" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 <b>"Code. Learn. Improve. Repeat."</b> 🚀
 </p>
